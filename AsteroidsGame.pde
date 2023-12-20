@@ -1,4 +1,4 @@
- Spaceship bob = new Spaceship ();
+Spaceship bob = new Spaceship();
 star[] nightsky = new star [200];
 
 public void setup() {
